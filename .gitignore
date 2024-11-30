@@ -1,0 +1,5 @@
+# VSCode workspace settings
+.vscode/
+
+# Maven build output
+/target/
